@@ -1,0 +1,1 @@
+This project further intensifies the learning and mastering of the unix shell, learn more about the B and C languages, know about the three prototype of main, learning how to use the PATH to fin programs, execute another program with execve system call, suspend the execution of a process until one of its children terminates and what EOF / "end-of-file?
